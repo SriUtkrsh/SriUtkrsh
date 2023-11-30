@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SriUtkrsh
 - 👀 I’m interested in AUTOMATION C# AND DEVOPS
-- 🌱 I’m currently learning and Recap all my skilsets Like C#,Selenium,Postman and jenkins and Robotic Process automation
+- 🌱 I’m currently learning JAVA SELENIUM
 - 💞️ I’m looking to collaborate on Automation
 - 📫 How to reach me ... 
 
