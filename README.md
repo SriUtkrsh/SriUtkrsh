@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SriUtkrsh
 - 👀 I’m interested in AUTOMATION C# AND DEVOPS
-- 🌱 I’m currently learning Robotic Process Automation
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Automation
 - 📫 How to reach me ... 
 
