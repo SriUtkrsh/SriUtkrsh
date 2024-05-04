@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriutkrsh&label=Profile%20views&color=0e75b6&style=flat" alt="sriutkrsh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriutkrsh" alt="sriutkrsh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriutkrsh" alt="sriutkrsh" /></a> </p>
 
 - 🔭 I’m currently working on **DotNetSelenium-101**
 
@@ -58,12 +58,13 @@
    
 
 
+<h3 align="Center">My stats:</h3>
+<p align="center">
+<img align="center-left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriutkrsh&show_icons=true&locale=en&layout=compact" alt="sriutkrsh" />
+</P>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriutkrsh&show_icons=true&locale=en&layout=compact" alt="sriutkrsh" />
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriutkrsh&show_icons=true&locale=en" alt="sriutkrsh" />
-
-&nbsp;<img align="Right" src="https://github-readme-streak-stats.herokuapp.com/?user=sriutkrsh&" alt="sriutkrsh" />
-
+<P align="center">
+<img align="center-right" src="https://github-readme-stats.vercel.app/api?username=sriutkrsh&show_icons=true&locale=en" alt="sriutkrsh" />
+<img align="center-left" src="https://github-readme-streak-stats.herokuapp.com/?user=sriutkrsh&" alt="sriutkrsh" />
 </p>
 
