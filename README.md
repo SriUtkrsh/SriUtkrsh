@@ -6,8 +6,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriutkrsh" alt="sriutkrsh" /></a> </p>
 
 - 🔭 I’m currently working on **DotNetSelenium-101**
-
-- 🌱 I’m currently learning **Selenium , C#,**
+  
+- 🌱 I’m currently Exploring **Use of AI In Testing**
+  
+- 📚 I’m currently Ace to master **C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SriUtkrsh](https://github.com/SriUtkrsh)
 
