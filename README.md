@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SriUtkrsh](https://github.com/SriUtkrsh)
 
-- 💬 Ask me about **Postman, Manual Testing, Automation, JMeter,**
+- 💬 Ask me about **Postman, Manual Testing, Automation testing, Performance Testing,**
 
 - 📫 How to reach me **UtkarshSrivastava765@gmail.com**
 
